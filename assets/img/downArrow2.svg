@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="38px" height="21px" viewBox="0 0 38 21" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 41.2 (35397) - http://www.bohemiancoding.com/sketch -->
+    <title>Shape</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop-HD" transform="translate(-649.000000, -1457.000000)" fill="#FFFFFF">
+            <g id="Group" transform="translate(668.000000, 1468.000000) scale(1, -1) translate(-668.000000, -1468.000000) translate(633.000000, 1433.000000)">
+                <path d="M51.0922587,25.5059382 L35.0001597,41.8298424 L18.9080607,25.5059382 C18.2430205,24.8313539 17.1649912,24.8313539 16.4990995,25.5059382 C15.8332078,26.1805226 15.8340593,27.2740229 16.4990995,27.9486072 L33.7952533,45.4929821 C34.1281992,45.8315699 34.5641794,46 35.0001597,46 C35.4361399,46 35.8721202,45.8315699 36.205066,45.4938458 L53.5012199,27.949471 C54.16626,27.2748866 54.16626,26.1813863 53.5012199,25.506802 C52.8353282,24.8313539 51.7572989,24.8313539 51.0922587,25.5059382 Z" id="Shape" transform="translate(35.000000, 35.500000) scale(1, -1) translate(-35.000000, -35.500000) "></path>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="35px" height="50px" viewBox="0 0 35 50" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 41.2 (35397) - http://www.bohemiancoding.com/sketch -->
+    <title>Icon Copy</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop-HD" transform="translate(-38.000000, -689.000000)" fill="#4A8F7F">
+            <path d="M55.5,689 C45.825,689 38,696.825 38,706.5 C38,719.625 55.5,739 55.5,739 C55.5,739 73,719.625 73,706.5 C73,696.825 65.175,689 55.5,689 L55.5,689 Z M55.5,712.75 C52.05,712.75 49.25,709.95 49.25,706.5 C49.25,703.05 52.05,700.25 55.5,700.25 C58.95,700.25 61.75,703.05 61.75,706.5 C61.75,709.95 58.95,712.75 55.5,712.75 L55.5,712.75 Z" id="Icon-Copy"></path>
+        </g>
+    </g>
+</svg>
